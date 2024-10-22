@@ -13,4 +13,6 @@ netsh advfirewall firewall add rule name="Blocked with Batchfile %%a" dir=out pr
 
 )
 ```
-- You only need to allow system32/svchost.exe for internet access
+- You only need to allow for internet access outbound:
+  - system32/svchost.exe
+  - iSCSI-Service (TCP)
