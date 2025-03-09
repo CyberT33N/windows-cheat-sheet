@@ -1,6 +1,32 @@
 # windows-cheat-sheet
 
 
+# Settings
+
+## Account
+
+### Change password
+
+Method #1 - Powershell
+```powershell
+$Passwort = Read-Host "Neues Passwort" -AsSecureString
+```
+
+
+
+<br><br>
+________
+________
+<br><br>
+
+
+
+
+
+
+
+
+
 # Bitlocker
 
 ## Restore from boot locking
