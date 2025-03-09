@@ -16,6 +16,18 @@ Set-LocalUser -Name $env:UserName -Password $Passwort
 
 
 <br><br>
+
+### Change PIN
+- Settings > Account > Sign-in Options > Change PIM
+  - Maybe the option is grey out becauuse you are inside of an organisation. then click on the blue text and then yoo are able to change it.
+
+
+
+
+
+
+
+<br><br>
 ________
 ________
 <br><br>
