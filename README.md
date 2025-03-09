@@ -10,6 +10,7 @@
 Method #1 - Powershell
 ```powershell
 $Passwort = Read-Host "Neues Passwort" -AsSecureString
+Set-LocalUser -Name $env:UserName -Password $Passwort
 ```
 
 
