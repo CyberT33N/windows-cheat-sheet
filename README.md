@@ -5,7 +5,7 @@
 
 ## Account
 
-### Change password
+### Change local password (not pin)
 
 Method #1 - Powershell
 ```powershell
