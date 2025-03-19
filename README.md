@@ -1,6 +1,40 @@
 # Windows Cheat Sheet
 
 
+# Sleep
+
+## Hibernate
+- You can enable hibernate with
+```powershell
+powercfg /hibernate on
+shuitdown /h
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+________
+________
+<br><br>
+
+
+
+
+
 
 # Network
 
