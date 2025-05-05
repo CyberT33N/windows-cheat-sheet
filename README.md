@@ -61,6 +61,7 @@ Erstelle einen Ordner auf deiner lokalen Festplatte, z. B. `C:\TestShare`.
 - Aktiviere „Diesen Ordner freigeben“.
 - Gib einen Freigabenamen ein (z. B. `TestShare`).
 - Klicke auf `Berechtigungen` und stelle sicher, dass dein Benutzerkonto mindestens Leseberechtigung hat (standardmäßig hat „Jeder“ Leserechte).
+  - Der **Default** wird einfach sein, dass nur **Lesen** berechtigt ist. Das heißt, wenn du etwas **testen** möchtest, wie dass du ein **Netzwerklaufwerk** usw. erstellst, dann musst du die **Rechte ändern**. Setze hier einfach **Vollzugriff**. 
 - Bestätige mit OK. Der Netzwerkpfad ist nun `\\localhost\TestShare` (oder `\\COMPUTERNAME\TestShare`).
 
 ### 3. Als Netzlaufwerk verbinden (optional):
