@@ -214,6 +214,42 @@ ________
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+# Defender
+
+## Scan folder
+```shell
+Start-MpScan -ScanType CustomScan -ScanPath "C:\Projects\development-platform\vs-code\extensions\vscode-symbols"
+```
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 ___
